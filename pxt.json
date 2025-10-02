@@ -1,0 +1,50 @@
+{
+    "name": "FNAF DARKEND TIMES 2 (fixed)",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.59",
+        "tag": "v2.0.59",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/9ac32db04cae4ac1aca1d3d49e26192f6d6fac23",
+        "target": "2.0.59",
+        "pxt": "11.3.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#00FBFF",
+        "#F81868",
+        "#FFA880",
+        "#883F07",
+        "#000000",
+        "#A8E038",
+        "#F9F906",
+        "#FFA800",
+        "#5800A8",
+        "#6828FF",
+        "#E0D0FF",
+        "#A070C8",
+        "#683090",
+        "#A80010"
+    ]
+}
